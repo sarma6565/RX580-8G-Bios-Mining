@@ -5,3 +5,13 @@ Register at Binance and use Binance mining pool(BTC, ETH) with lowest fees 0.5%,
 https://www.binance.com/en/register?ref=77478371
 
 Enjoy
+
+How to flash bios - https://www.youtube.com/watch?v=1UU0lVLiEh0
+
+For any questions feel free to contact me - Tex20@protonmail.com
+
+
+
+
+
+
