@@ -8,6 +8,9 @@ Enjoy
 
 How to flash bios - https://www.youtube.com/watch?v=1UU0lVLiEh0
 
+(GUI version of drivers win/linux) Remember to set your GPU to compute mode, AMD Software->Settings->Graphics->Advanced->GPU Workload set to Compute.
+Estimated hashrate/power consumption for ETH mining is 30.5 MH/s at 88-110 watts
+
 For any questions feel free to contact me - Tex20@protonmail.com
 
 
